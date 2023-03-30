@@ -41,7 +41,7 @@ def drawALL(img, buttonList):
         # text,location,font,scale,color,thickness
     return img
 
-
+# IF YOU WANT TO MAKE THE KEYS TRANSPARENT 
 # def drawALL(img, buttonList):
 #    imgNew = np.zeros_like(img, np.uint8)
 #    for button in buttonList:
