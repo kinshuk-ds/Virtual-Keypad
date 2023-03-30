@@ -17,9 +17,9 @@ cap.set(4, 720)
 
 detector = HandDetector(detectionCon=0.8)
 # DETECTION CONFIDENCE by default it is 0.5 but we want more accuracy
-keys = [["1", "2", "3"],
-        ["4", "5", "6"],
-        ['7', '8', '9']]
+keys = [["1", "2", "3", '#'],
+        ["4", "5", "6", '0'],
+        ['7', '8', '9', '*']]
 # EACH LINE IS A DIFFERENT LIST
 
 finalText = ""
