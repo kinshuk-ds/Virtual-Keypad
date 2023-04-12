@@ -11,11 +11,11 @@ To use this program, you will need to install several Python libraries. You can 
 
 pip install opencv-python
 
-pip install mediapipe
+pip install mediapipe==0.8.7.1
 
-pip install pynput
+pip install pynput==1.7.3
 
-pip install cvzone
+pip install cvzone==1.4.1
 
 ## Usage:
 1. Run the program in your Python environment.
